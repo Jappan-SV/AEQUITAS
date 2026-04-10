@@ -740,11 +740,11 @@ with st.sidebar:
 
 # ─── MAIN TABS ───────────────────────────────────────────────────────────────
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📂  DATA INGESTION",
-    "📊  FAIRNESS DASHBOARD",
-    "🧠  SHAP EXPLAINER",
-    "🔧  MITIGATION SANDBOX",
-    "📄  AUDIT REPORT",
+    "|DATA INGESTION|",
+    "|FAIRNESS DASHBOARD|",
+    "|SHAP EXPLAINER|",
+    "|MITIGATION SANDBOX|",
+    "|AUDIT REPORT|",
 ])
 
 # ════════════════════════════════════════════════════════════════════════════════
